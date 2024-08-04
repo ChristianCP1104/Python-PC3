@@ -1,6 +1,6 @@
 # menu.py
 from Ejercicio3 import CIRCULO
-from Ejercicio4 import RECTANGULO, CUADRADO(RECTANGULO)
+from Ejercicio4 import RECTANGULO, CUADRADO
 
 def obtener_numero_positivo(mensaje):
     while True:
